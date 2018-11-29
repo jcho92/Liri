@@ -52,5 +52,7 @@ How to run Liri-bot:
     do-what-it-says
     running do-what-it-says will run a function preprogrammed into Liri, who knows what it might do. This is the only function that does not require a fourth argument. 
 
-    
+![spotify](images/spotify1.png)![spotify2](images/spotify2.png)![movie1](images/movie1.png)![spotify](images/movie2.png)
+![concert1](images/concert1.png)![concert2](images/concert2.png)![do1](images/do1.png)![do2](images/do2.png)
+
 
